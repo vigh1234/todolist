@@ -1,0 +1,71 @@
+.container{
+    border-width: 2px;
+    width: 490px;
+    height: 410px;
+    background-color: black;
+    margin-left: 30%;
+    margin-top: 50px;
+    border-radius: 10px;
+    padding-top: 30px;
+    display: block;
+    box-shadow: 3px 3px 7px black;
+}
+.display{
+    background-color: rgb(128, 128, 128);
+    width: 445px;
+    height: 38px;
+    padding-top: 20px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    border-radius: 8px;
+    
+}
+#first{
+    margin-top: 30px;
+}
+ #btn1{
+    height: 40px;
+    margin-top: 20px;
+    background-color: rgb(192, 16, 92);
+    color: white;
+    font-size: large;
+    border-radius: 7px;
+    width: 375px;
+    margin-left: 22px;
+} 
+#btn{
+    margin-left: 24px;
+    width: 120px;
+    height: 40px;
+    margin-top: 20px;
+    background-color: indigo;
+    color: white;
+    font-size: larger;
+    border-radius: 5px;
+}
+#btn2{
+    /* margin-top: 50px; */
+    width: 120px;
+    margin-left: 7px;
+    height: 40px;
+    background-color: indigo;
+    color: white;
+    font-size: larger;
+    border-radius: 5px;
+}
+#btn3{
+    width: 53px;
+    margin-left: 12px;
+    height: 40px;
+    font-size: larger;
+    border-radius: 5px;
+}
+#back{
+    width: 53px;
+    margin-left: 12px;
+    height: 38px;
+    font-size: medium;
+    border-radius: 5px;
+}
